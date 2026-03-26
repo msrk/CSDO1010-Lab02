@@ -1,1 +1,1 @@
-# Goal: Ship clean PRs fast.  change
+# dual : is changed
